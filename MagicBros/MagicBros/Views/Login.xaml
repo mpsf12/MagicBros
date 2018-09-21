@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MagicBros.Views.Login">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                     Margin="20,0">
+            <Entry x:Name="EmailEntry"
+                   Placeholder="Email"
+                   Keyboard="Email"/>
+            <Entry x:Name="PassEntry"
+                   Placeholder="Password"
+                   IsPassword="True"/>
+            <Button x:Name="LoginBtn" 
+                    Text="Log in" 
+                    Clicked="LoginBtn_Clicked" 
+                    BackgroundColor="DodgerBlue"
+                    TextColor="White"
+                    Margin="0,60,0,0"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

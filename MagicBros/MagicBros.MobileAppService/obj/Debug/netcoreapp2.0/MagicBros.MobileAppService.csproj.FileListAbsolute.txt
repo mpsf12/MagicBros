@@ -1,0 +1,8 @@
+C:\Users\MarcioNote\source\repos\MagicBros\MagicBros\MagicBros.MobileAppService\bin\Debug\netcoreapp2.0\MagicBros.MobileAppService.deps.json
+C:\Users\MarcioNote\source\repos\MagicBros\MagicBros\MagicBros.MobileAppService\bin\Debug\netcoreapp2.0\MagicBros.MobileAppService.runtimeconfig.json
+C:\Users\MarcioNote\source\repos\MagicBros\MagicBros\MagicBros.MobileAppService\bin\Debug\netcoreapp2.0\MagicBros.MobileAppService.runtimeconfig.dev.json
+C:\Users\MarcioNote\source\repos\MagicBros\MagicBros\MagicBros.MobileAppService\bin\Debug\netcoreapp2.0\MagicBros.MobileAppService.dll
+C:\Users\MarcioNote\source\repos\MagicBros\MagicBros\MagicBros.MobileAppService\obj\Debug\netcoreapp2.0\MagicBros.MobileAppService.csprojAssemblyReference.cache
+C:\Users\MarcioNote\source\repos\MagicBros\MagicBros\MagicBros.MobileAppService\obj\Debug\netcoreapp2.0\MagicBros.MobileAppService.csproj.CoreCompileInputs.cache
+C:\Users\MarcioNote\source\repos\MagicBros\MagicBros\MagicBros.MobileAppService\obj\Debug\netcoreapp2.0\MagicBros.MobileAppService.AssemblyInfoInputs.cache
+C:\Users\MarcioNote\source\repos\MagicBros\MagicBros\MagicBros.MobileAppService\obj\Debug\netcoreapp2.0\MagicBros.MobileAppService.AssemblyInfo.cs
